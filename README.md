@@ -2,11 +2,11 @@
 
 ## 故事背景
 
-![image-20200413231128790](story background1.png)
+![image-20200413231128790](https://github.com/ZIJIN-Evan/ShiGuang_game/blob/master/story%20background1.jpg)
 
-![image-20200413231145681](story background2.png)
+![image-20200413231145681](https://github.com/ZIJIN-Evan/ShiGuang_game/blob/master/story%20background2.jpg)
 
-![image-20200413231110832](story background3.png)
+![image-20200413231110832](https://github.com/ZIJIN-Evan/ShiGuang_game/blob/master/story%20background3.jpg)
 
 ## 游戏类型
 
