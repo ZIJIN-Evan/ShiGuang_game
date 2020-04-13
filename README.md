@@ -50,3 +50,6 @@
 
 [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html)
 
+## 开发文档
+[微信小游戏开发文档](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)
+[cocos开发文档](https://docs.cocos.com/creator/manual/zh/)
