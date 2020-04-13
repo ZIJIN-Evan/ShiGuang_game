@@ -2,11 +2,11 @@
 
 ## 故事背景
 
-![image-20200413231128790](C:\Users\Maple\AppData\Roaming\Typora\typora-user-images\image-20200413231128790.png)
+![image-20200413231128790](story background1.png)
 
-![image-20200413231145681](C:\Users\Maple\AppData\Roaming\Typora\typora-user-images\image-20200413231145681.png)
+![image-20200413231145681](story background2.png)
 
-![image-20200413231110832](C:\Users\Maple\AppData\Roaming\Typora\typora-user-images\image-20200413231110832.png)
+![image-20200413231110832](story background3.png)
 
 ## 游戏类型
 
